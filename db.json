@@ -1,4 +1,4 @@
-[
+
   {
     "id": 1,
     "productName": "Product 1",
@@ -40,5 +40,4 @@
     "price": 240.00,
     "category": "Futniture",
     "productImg": "/images/products/product-6.jpg"
-  },
-]
+  }
