@@ -1,7 +1,0 @@
-{
-  id: 1,
-  productName: "Product 1",
-  price: 40.00,
-  category: "Furniture",
-  imgSrc: "/images/products/product-1.jpg"
-}
